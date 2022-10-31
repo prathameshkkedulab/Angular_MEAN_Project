@@ -1,0 +1,5 @@
+name : AngularProject
+pass: amgular123
+
+mongodb+srv://AngularProject:amgular123@cluster0.fmawkgw.mongodb.net/Database_Name?retryWrites=true&w=majority
+
